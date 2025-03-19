@@ -19,7 +19,7 @@ def set_background(image_file):
         background-size: cover;
     }}
     .cloud-box {{
-        background-color: rgba(255, 255, 255, 0.6);
+        background-color: rgba(221, 243, 254, 0.6);
         padding: 15px;
         border-radius: 10px;
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
@@ -29,7 +29,7 @@ def set_background(image_file):
         margin-bottom: 10px; 
     }}
     .subheading-box {{
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: rgba(254, 249, 215, 0.6);
         padding: 10px;
         border-radius: 10px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
